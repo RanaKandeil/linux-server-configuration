@@ -153,16 +153,9 @@ Then add the following content:
  Reload & Restart Apache Server
 sudo service apache2 reload
 sudo service apache2 restart
-Resources
-Amazon EC2 Linux Instances
-Flask mod_wsgi (Apache)
-Apache Server Configuration Files
-Deploy a Flask Application on an Ubuntu VPS
-Set Up Apache Virtual Hosts on Ubuntu
-mod_wsgi documentation
-Automatic Security Updates
-Protect SSH with Fail2Ban
-UFW with Fail2ban
-Fix locale issue
-Ask Ubuntu
-Stack Overflow
+
+Sources
+Amazon Lightsail Website
+Google API Concole
+Udacity
+Apache
