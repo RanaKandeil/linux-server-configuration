@@ -4,6 +4,7 @@ A baseline installation of a Linux distribution on a virtual machine and prepare
 
 IP Address: http://3.122.205.129/
 SSH Port: 2200
+grader password: root
 Start a new Ubuntu Linux Server instance on Amazon Lightsail
 1.	Create an AWS account
 2.	Click Create instance button on the home page
